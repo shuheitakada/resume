@@ -21,8 +21,6 @@
 | TypeScript | 半年 | ある程度使える |
 | Vue.js | 半年 | ある程度使える |
 | Nuxt.js | 半年 | ある程度使える |
-| Vuetify | 半年 | ある程度使える |
-| GraphQL | 半年 | ある程度使える |
 | Go | 3ヶ月 | 少し使える |
 
 ### その他の技術
@@ -41,6 +39,8 @@
   - Athena
 - MySQL
 - Docker
+- GraphQL
+- Apollo
 - Ansible
 - Circle CI
 - Sentry

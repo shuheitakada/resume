@@ -7,22 +7,25 @@
 | 2019/06 | ピクスタ株式会社 入社(アルバイト) |
 | 2019/12 | ピクスタ株式会社 退社 |
 | 2020/04 | 株式会社ギフティ 入社(正社員) |
+| 2022/07 | 株式会社ギフティ 退社 |
 | 2022/08 | フリーランス |
 
 ## スキルセット
 ### 言語・フレームワーク
-| 言語・フレームワーク | 経験年数 | レベル(主観) |
-| --- | --- | --- |
-| Ruby on Rails | 3.5年 | 人に教えられる |
-| JavaScript | 3.5年 | ある程度使える |
-| TypeScript | 半年 | ある程度使える |
-| Nuxt.js | 半年 | ある程度使える |
-| React | 半年 | ある程度使える |
-| Go | 3ヶ月 | 少し使える |
+| 言語・フレームワーク | 経験年数 |
+| --- | --- |
+| TypeScript | 2年 |
+| NestJS | 2年 |
+| Ruby on Rails | 3.5年 |
+| React | 0.5年 |
+| Nuxt.js | 0.5年 |
+| Remix | 0.5年 |
+| Go | 0.5年 |
 
 ### その他の技術
 - AWS
-  - VPC
+  - ECS
+  - Fargate
   - EC2
   - S3
   - RDS
@@ -35,11 +38,15 @@
   - WAF
   - Athena
 - MySQL
+- PostgreSQL
 - Docker
-- GraphQL
-- Apollo
-- Ansible
 - Circle CI
+- GitHub Actions
+- Terraform
+- Datadog
+- BigQuery
+- GraphQL
+- Open API
 - Sentry
 - SendGrid
 - Git
